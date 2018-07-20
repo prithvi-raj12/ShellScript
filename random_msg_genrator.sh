@@ -15,7 +15,7 @@ array=( "Neither in this world nor elsewhere is there any happiness in store for
 	"One who has control over the mind is tranquil in heat and cold, in pleasure and pain, and in honor and dishonor; and is ever steadfast with the Supreme Self"
 	"The wise sees knowledge and action as one; they see truly." 
 	"Forgivness is the foundation of a meaningful, deep, good and true relationship." 
-	"Perform your obligatory duty." )
+	"Perform your obligatory duty, as we see" )
 	#Display a random message 
 	echo 
 	echo ${array[$r]}
