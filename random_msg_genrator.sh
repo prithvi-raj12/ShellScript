@@ -14,7 +14,7 @@ array=( "Neither in this world nor elsewhere is there any happiness in store for
 	"The power of God is with you at all times; through the activities of mind, senses, breathing, and emotions; and is constantly doing all the work using you as a mere instrument."
 	"One who has control over the mind is tranquil in heat and cold, in pleasure and pain, and in honor and dishonor; and is ever steadfast with the Supreme Self"
 	"The wise sees knowledge and action as one; they see truly." 
-	"The mind acts like an enemy for those who do not control it." 
+	"Forgivness is the foundation of a meaningful, deep and true relationship." 
 	"Perform your obligatory duty, because action is indeed better than inaction." )
 	#Display a random message 
 	echo 
